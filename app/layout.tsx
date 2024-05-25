@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const ibmPlexSerif = IBM_Plex_Serif({
   subsets: ["latin"],
-  weights: [400, 700],
+  weight: ["400", "700"],
   variable: "--font-ibm-plex-serif",
 });
 
